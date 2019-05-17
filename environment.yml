@@ -1,0 +1,12 @@
+name: intermediate-python-datasci
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.7
+    - numpy>=1.14
+    - pandas>=0.22
+    - seaborn>=0.9
+    - rise
+    - pip:
+      - jupyter-contrib-nbextensions
