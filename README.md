@@ -24,7 +24,7 @@ The following are the primary learning objectives of students:
 | :----------------------------------------------------------------------------- | :-----------: |
 | Breakfast / Social Time                                                        |  8:00 - 9:00  |
 | Introductions                                                                  |  9:00 - 9:15  |
-| Working with Data using pandas                                                 |  9:15 - 9:45  |
+| Setting the Stage                                                              |  9:15 - 9:45  |
 | Conditions                                                                     |  9:45 - 10:30 |
 | Break                                                                          | 10:30 - 10:45 |
 | Iterations                                                                     | 10:45 - 12:00 |
