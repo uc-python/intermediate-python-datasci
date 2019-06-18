@@ -1,12 +1,13 @@
-name: intermediate-python-datasci
+name: uc-python
 channels:
     - defaults
     - conda-forge
 dependencies:
-    - python=3.7
-    - numpy>=1.14
-    - pandas>=0.22
-    - seaborn>=0.9
-    - rise
+    - python>=3.7
+    - pip>=19.0
+    - numpy=1.16
+    - pandas=0.24
+    - seaborn=0.9
+    - rise=5.5
     - pip:
       - jupyter-contrib-nbextensions
