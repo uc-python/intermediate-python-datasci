@@ -1,3 +1,4 @@
-conda activate uc-python
+conda env create -f environment.yml
+python -m ipykernel install --user --name uc-python --display-name uc-python
 jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
