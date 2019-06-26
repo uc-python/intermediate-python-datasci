@@ -9,6 +9,6 @@ dependencies:
     - pandas=0.24
     - seaborn=0.9
     - scikit-learn=0.21.2
-    - rise=5.5
+    - rise
     - pip:
       - jupyter-contrib-nbextensions
