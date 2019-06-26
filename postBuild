@@ -1,2 +1,3 @@
+conda activate uc-python
 jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
