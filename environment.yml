@@ -8,6 +8,7 @@ dependencies:
     - numpy=1.16
     - pandas=0.24
     - seaborn=0.9
-    - rise=5.5
+    - scikit-learn=0.21.2
+    - rise
     - pip:
       - jupyter-contrib-nbextensions
