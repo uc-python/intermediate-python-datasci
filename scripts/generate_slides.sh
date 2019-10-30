@@ -5,7 +5,11 @@ if [ ! -d ".git" ]; then
     exit 1
 fi
 
+# We must be *in* the notebook folder for relative links (to eg images) to work
+# correctly..
+cd notebooks
+cp -r images ../slides
 # Match all notebook files with content.
-for file in notebooks/*-*.ipynb; do
-    jupyter nbconvert --to slides $file --reveal-prefix https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0 --output-dir=slides
+for file in *-*.ipynb; do
+    jupyter nbconvert --to slides $file --reveal-prefix https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0 --output-dir=../slides
 done
