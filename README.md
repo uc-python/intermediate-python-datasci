@@ -1,5 +1,5 @@
 # Intermediate Python for Data Science
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intermediate-python-datasci/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intermediate-python-datasci/master?urlpath=lab)
 
 ### Course Description
 
