@@ -3,12 +3,12 @@ channels:
     - defaults
     - conda-forge
 dependencies:
-    - python>=3.7
-    - pip>=19.0
-    - numpy=1.16
-    - pandas=0.24
-    - seaborn=0.9
-    - scikit-learn=0.21.2
-    - rise
-    - pip:
-      - jupyter-contrib-nbextensions
+    - python>=3.9
+    - pip>=20.3
+    - numpy=1.19
+    - pandas=1.2
+    - seaborn=0.11
+    - ipykernel=5.3
+    - jinja2=2.11
+    - jedi=0.17.2
+    - scikit-learn=0.24
