@@ -18,37 +18,35 @@ The following are the primary learning objectives of students:
 
 ### Agenda
 
+**Due to the Coronavirus pandemic, this workshop offering will be 100% virtual and span 4 half-days.**
+
 **Day 1**
 
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Breakfast / Social Time                                                        |  8:00 - 9:00  |
-| Introductions                                                                  |  9:00 - 9:15  |
-| Setting the Stage                                                              |  9:15 - 9:45  |
-| Conditions                                                                     |  9:45 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Iterations                                                                     | 10:45 - 12:00 |
-| Lunch                                                                          | 12:00 - 1:00  |
-| Functions                                                                      |  1:00 - 2:00  |
-| Applying Functions to pandas Data Frames                                       |  2:00 - 2:30  |
-| Break                                                                          |  2:30 - 2:45  |
-| Case Study, pt. 1                                                              |  2:45 - 4:00  |
-| Q\&A                                                                           |  4:00 - 4:30  | 
-
-**Day 2**
-
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Breakfast / Social Time                                                        |  8:00 - 9:00  |
-| Case Study Review, pt. 1                                                       |  9:00 - 9:30  |
-| Python from the Shell                                                          |  9:30 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Kernels and Environments                                                       | 10:45 - 11:30 |
-| Python Data Science Ecosystem                                                  | 11:30 - 12:00 |
-| Lunch                                                                          | 12:00 - 1:00  |
-| Modeling with scikit-learn                                                     |  1:00 - 2:00  |
-| Case Study, pt. 2                                                              |  2:00 - 3:15  |
-| Case Study Review, pt. 2 and Q\&A                                              |  3:15 - 4:00  |
+| Day | Topic                                                                          |     Time      |
+| :-: | :----------------------------------------------------------------------------- | :-----------: |
+|  1  | Introductions                                                                  |  9:00 - 9:15  |
+|     | Setting the Stage                                                              |  9:15 - 9:45  |
+|     | Conditions                                                                     |  9:45 - 10:30 |
+|     | Break                                                                          | 10:30 - 10:45 |
+|     | Iterations                                                                     | 10:45 - 12:00 |
+|     | Q&A                                                                            | 12:00 - 12:30 | 
+|  2  | Q&A                                                                            |  8:30 - 9:00  | 
+|     | Functions                                                                      |  9:00 - 10:00 |
+|     | Applying Functions to pandas Data Frames                                       | 10:00 - 10:30 |
+|     | Break                                                                          | 10:30 - 10:45 |
+|     | Case Study, pt. 1                                                              | 10:45 - 12:00 |
+|     | Q&A                                                                            | 12:00 - 12:30 | 
+|  3  | Q&A                                                                            |  8:30 - 9:00  | 
+|     | Case Study Review, pt. 1                                                       |  9:00 - 9:30  |
+|     | Python from the Shell                                                          |  9:30 - 10:30 |
+|     | Break                                                                          | 10:30 - 10:45 |
+|     | Kernels and Environments                                                       | 10:45 - 11:30 |
+|     | Python Data Science Ecosystem                                                  | 11:30 - 12:00 |
+|     | Q&A                                                                            | 12:00 - 12:30 |
+|  4  | Q&A                                                                            |  8:30 - 9:00  |
+|     | Modeling with scikit-learn                                                     |  9:00 - 10:00 |
+|     | Case Study, pt. 2                                                              | 10:00 - 11:15 |
+|     | Case Study Review, pt. 2 and Q&A                                               | 11:15 - 12:00 |
 
 ### Course Preparation
 
