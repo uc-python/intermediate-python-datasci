@@ -15,6 +15,9 @@ The following are the primary learning objectives of students:
 
 3. Exposure to Python's data science ecosystem and modeling via scikit-learn.
 
+### Prerequisites
+
+Students should have attended the [Introduction to Python for Data Science training](https://github.com/uc-python/intro-python-datasci) or have previously used Python and the Pandas package for data analysis in a professional environment.
 
 ### Agenda
 
