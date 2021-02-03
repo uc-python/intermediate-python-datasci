@@ -63,7 +63,7 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 
 1. Visit the [Anaconda download page](https://www.anaconda.com/distribution/)
 2. Select your appropriate operating system
-3. Click the "Download" button for Python 3.7 - this will begin to download the Anaconda installer
+3. Click the "Download" button for Python 3.8 - this will begin to download the Anaconda installer
 4. Open the installer when the download completes, and then follow the prompts. If you are prompted about installing PyCharm, elect **not** to do so.
 5. Once installed, open the Anaconda Navigator and launch a Jupyter Notebook to ensure it works.
 6. Follow [the package installation instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) to ensure `pandas`, `numpy`, `scikit-learn`, and `seaborn` packages are installed.
