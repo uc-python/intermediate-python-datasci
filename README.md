@@ -74,7 +74,9 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 There are two ways to download the class materials:
 
 1. Clone it - If you're familiar with how to do so, you can clone this repository.
-2. Download the files as a zip - use [this link](https://github.com/uc-python/intermediate-python-datasci/archive/master.zip)
+2. Download the files as a zip - use [this link](https://github.com/uc-python/intermediate-python-datasci/archive/master.zip).
+
+### Your Instructors
 
 If you have any specific questions prior to the class you can reach out to us directly via GitHub or email:
 
