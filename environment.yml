@@ -12,3 +12,4 @@ dependencies:
     - jinja2=2.11
     - jedi=0.17.2
     - scikit-learn=0.24
+    - plotnine=0.7
