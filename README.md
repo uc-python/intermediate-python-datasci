@@ -58,16 +58,20 @@ With that being said, we recommend installing the appropriate technologies and d
 
 Follow these steps to download the technologies and materials:
 
-#### 1. Install Python, Jupyter and Needed Package
+#### 1. Install Python, Jupyter and Needed Packages
 
-These easiest way to install Python, Jupyter, and the necessary packages is through Anaconda. To download and install Anaconda:
+These easiest way to install Python, Jupyter, and the necessary packages is through Anaconda. To download and install Anaconda and its graphical interface, Anaconda Navigator, follow these steps:
 
 1. Visit the [Anaconda download page](https://www.anaconda.com/products/individual).
 2. Select your appropriate operating system.
 3. Click the "Download" button for Python 3.8 - this will begin to download the Anaconda installer.
 4. Open the installer when the download completes, and then follow the prompts. If you are prompted about installing PyCharm, elect **not** to do so.
 5. Once installed, open the Anaconda Navigator and launch a Jupyter Notebook to ensure it works.
-6. Follow [the package installation instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) to ensure `pandas`, `numpy`, `scikit-learn`, and `seaborn` packages are installed.
+6. Download the class materials (see the below section) and use the included `environment.yaml` file to create a new environment from Anaconda Navigator, using these steps:
+  - In the tabs along the left side, select "Environments".
+  - At the bottom of the list of environments (you will likely have just one, "base"), look for the "Import" button. Click it.
+  - In the dialog box that appears, click on the folder icon and then navigate your computer's files in order to select the `environment.yaml` file you downloaded earlier. Click "Open" once you've selected it.
+  - Wait for Anaconda Navigator to finish fetching and installing the needed packages. When it finishes, a new environment called "uc-python" should show up in the list.
 
 #### 2. Download Class Materials
 
