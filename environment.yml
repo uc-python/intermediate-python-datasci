@@ -1,4 +1,4 @@
-name: uc-python
+name: uc-python-intermediate
 channels:
     - defaults
     - conda-forge
