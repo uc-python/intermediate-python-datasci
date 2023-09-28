@@ -14,3 +14,4 @@ dependencies:
     - jedi=0.18
     - scikit-learn=1.0
     - plotnine=0.8
+    - nbconvert=6.1
