@@ -26,29 +26,30 @@ Students should have attended the [Introduction to Python for Data Science train
 
 | Day | Topic                                                                          |     Time      |
 | :-: | :----------------------------------------------------------------------------- | :-----------: |
-|  1  | Introductions                                                                  |  9:00 - 9:15  |
-|     | Setting the Stage                                                              |  9:15 - 9:45  |
-|     | Conditions                                                                     |  9:45 - 10:30 |
-|     | Break                                                                          | 10:30 - 10:45 |
-|     | Iterations                                                                     | 10:45 - 12:00 |
-|     | Q&A                                                                            | 12:00 - 12:30 | 
-|  2  | Q&A                                                                            |  8:30 - 9:00  | 
-|     | Functions                                                                      |  9:00 - 10:15 |
-|     | Applying Functions to pandas Data Frames                                       | 10:15 - 10:45 |
-|     | Break                                                                          | 10:45 - 11:00 |
-|     | Case Study, pt. 1                                                              | 11:00 - 12:15 |
-|     | Q&A                                                                            | 12:15 - 12:30 | 
-|  3  | Q&A                                                                            |  8:30 - 9:00  | 
-|     | Case Study Review, pt. 1                                                       |  9:00 - 9:45  |
-|     | Python from the Shell                                                          |  9:45 - 11:00 |
-|     | Break                                                                          | 11:00 - 11:15 |
-|     | Kernels and Environments                                                       | 11:15 - 12:00 |
-|     | Python Data Science Ecosystem                                                  | 12:00 - 12:15 |
-|     | Q&A                                                                            | 12:15 - 12:30 |
-|  4  | Q&A                                                                            |  8:30 - 9:00  |
-|     | Modeling with scikit-learn                                                     |  9:00 - 10:00 |
-|     | Case Study, pt. 2                                                              | 10:00 - 11:15 |
-|     | Case Study Review, pt. 2 and Q&A                                               | 11:15 - 12:00 |
+|  1  | Introductions                                                                  | 12:45 - 1:00  |
+|     | Setting the Stage                                                              |  1:00 - 1:30  |
+|     | Conditions                                                                     |  1:30 - 2:15  |
+|     | Break                                                                          |  2:15 - 2:30  |
+|     | Iterations                                                                     |  2:30 - 3:45  |
+|     | Q&A                                                                            |  3:45 - 4:15  | 
+|  2  | Q&A                                                                            | 12:45 - 1:15  | 
+|     | Functions                                                                      |  1:15 - 2:15  |
+|     | Applying Functions to pandas Data Frames                                       |  2:15 - 2:45  |
+|     | Break                                                                          |  2:45 - 3:00  |
+|     | Case Study, pt. 1                                                              |  3:00 - 4:00  |
+|     | Q&A                                                                            |  4:00 - 4:15  | 
+|  3  | Q&A                                                                            | 12:45 - 1:15  | 
+|     | Case Study Review, pt. 1                                                       |  1:15 - 1:45  |
+|     | Python from the Shell                                                          |  1:45 - 2:45  |
+|     | Break                                                                          |  2:45 - 3:00  |
+|     | Kernels and Environments                                                       |  3:00 - 3:45  |
+|     | Python Data Science Ecosystem                                                  |  3:45 - 4:00  |
+|     | Q&A                                                                            |  4:00 - 4:15  |
+|  4  | Q&A                                                                            | 12:45 - 1:15  |
+|     | Modeling with scikit-learn                                                     |  1:15 - 2:15  |
+|     | Case Study, pt. 2                                                              |  2:15 - 3:30  |
+|     | Case Study Review, pt. 2                                                       |  3:30 - 4:00  |
+|     | Q&A                                                                            |  4:00 - 4:15  |
 
 ### Course Preparation
 
