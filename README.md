@@ -1,6 +1,6 @@
 # Intermediate Python for Data Science
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intermediate-python-datasci/master?urlpath=lab)
-[![Test](https://github.com/uc-python/intermediate-python-datasci/workflows/Test/badge.svg?branch=master)](https://github.com/uc-python/intermediate-python-datasci/actions?query=workflow%3ATest)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intermediate-python-datasci/main?urlpath=lab)
+[![Test](https://github.com/uc-python/intermediate-python-datasci/workflows/Test/badge.svg?branch=main)](https://github.com/uc-python/intermediate-python-datasci/actions?query=workflow%3ATest)
 
 ### Course Description
 
@@ -79,7 +79,7 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 There are two ways to download the class materials:
 
 1. Clone it - If you're familiar with how to do so, you can clone this repository.
-2. Download the files as a zip - use [this link](https://github.com/uc-python/intermediate-python-datasci/archive/master.zip).
+2. Download the files as a zip - use [this link](https://github.com/uc-python/intermediate-python-datasci/archive/refs/heads/main.zip).
 
 ### Your Instructors
 
