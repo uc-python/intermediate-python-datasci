@@ -1,6 +1,6 @@
 # Intermediate Python for Data Science
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intermediate-python-datasci/main?urlpath=lab)
-[![Test](https://github.com/uc-python/intermediate-python-datasci/workflows/Test/badge.svg?branch=main)](https://github.com/uc-python/intermediate-python-datasci/actions?query=workflow%3ATest)
+[![Test](https://github.com/uc-python/intermediate-python-datasci/actions/workflows/test.yaml/badge.svg)](https://github.com/uc-python/intermediate-python-datasci/actions/workflows/test.yaml)
 
 ### Course Description
 
